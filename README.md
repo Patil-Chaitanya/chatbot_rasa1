@@ -47,10 +47,6 @@ If the rasa installation gives error, try this [solution](https://stackoverflow.
 
 ## Get files
 
-To download the RASA files from github run the following command 
-
-- > git clone https://github.com/athenasaurav/Chaitanya.git
-
 Move inside directory
 
 - > cd Chaitanya
